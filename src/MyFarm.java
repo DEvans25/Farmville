@@ -17,6 +17,7 @@ public class MyFarm {
 
         totalPlants();
         printPlantNames();
+        greatestDifferenceNumberBetweenAnyPlants();
 
     }
 
